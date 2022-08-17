@@ -4,4 +4,4 @@
 
 * Akurasi yang didapatkan mencapai 96% pada epoch ke 25
 
-* Kode program dibuat untuk submission course dicoding "Belajar Machine Learning untuk Pemula" dan memperoleh 5 bintang pada penilaian
+* Kode program dibuat untuk submission course dicoding "Belajar Machine Learning untuk Pemula" 
